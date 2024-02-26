@@ -1,6 +1,4 @@
-Certainly! Here's the README content with commands only:
 
-```markdown
 # Triveous Ecommerce Backend
 
 Triveous Ecommerce Backend is the server-side component of our robust e-commerce platform, powering everything from user authentication to order processing. Built with Node.js, Express.js, and MongoDB, it provides the essential backend functionality for a complete online shopping experience.
